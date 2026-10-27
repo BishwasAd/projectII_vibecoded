@@ -1,0 +1,7 @@
+stellenv/
+data/raw_videos/*.mp4
+data/raw_videos/*.mov
+outputs/
+__pycache__/
+*.pyc
+.DS_Store
